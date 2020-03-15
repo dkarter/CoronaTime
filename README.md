@@ -26,4 +26,4 @@ Data is provided by ArcGIS Esri Corona Virus Dataset.
 
 MIT
 
-Dataset is provided by ArcGIS Esri Corona Virus dataset and subject to ArcGIS Esri terms of licensing.
+Dataset is provided by [ArcGIS Esri Corona Virus dataset](https://coronavirus-resources.esri.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1) and subject to ArcGIS Esri terms of licensing.
