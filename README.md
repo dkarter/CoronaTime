@@ -22,6 +22,10 @@ Data is provided by ArcGIS Esri Corona Virus Dataset.
 
 ![setup](img/settings.png)
 
+## Collaboration
+Please submit a PR with changes only to the `src/script_filter.rb` file. I will
+test it and cut a new workflow release.
+
 ## License
 
 MIT
