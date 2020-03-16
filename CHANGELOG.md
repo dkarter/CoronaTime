@@ -1,3 +1,7 @@
+Changes in v1.2.0:
+------------------
+- Support search by country e.g. `;co Germany`
+
 Changes in v1.1.0:
 ------------------
 - Fixed title always showing Illinois, even though the user configured a different state as their default
